@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>MD高级扩展语法使用示例</title>
+    <url>/2022/11/06/MD%E9%AB%98%E7%BA%A7%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B/</url>
+    <content><![CDATA[<p><ins>下划线</ins></p>
+<p>::: tips<br />
+<strong>提示</strong><br />
+这是一个提示<br />
+:::</p>
+<p>::: warning<br />
+<strong>注意</strong><br />
+这是一个警告<br />
+:::</p>
+<p>::: danger<br />
+<strong>警告</strong><br />
+这是一个危险信号<br />
+:::</p>
+<p>::: success<br />
+<strong>成功</strong><br />
+这是一个成功信号<br />
+:::</p>
+]]></content>
+  </entry>
+</search>
